@@ -49,22 +49,6 @@ I am actively seeking **internship opportunities** where I can apply my knowledg
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashG&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashG&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashG&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
