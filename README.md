@@ -1,6 +1,6 @@
 <!-- 🔵 HEADER BANNER (GitHub-safe) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Akash%20Giri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Software%20Engineering&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 👋 NAME -->
@@ -10,7 +10,7 @@
 
 <!-- ⌨️ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;C+%7C+C%2B%2B+Programmer;AI+%26+ML+Enthusiast;Flutter+%7C+App+Developer;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;C+%7C+C%2B%2B+Programmer;AI+%26+ML+Enthusiast;Flutter+%7C+App+Developer;" />
 </p>
 
 <p align="center">
